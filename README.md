@@ -6,8 +6,7 @@ Os projetos estão dividios em 4 partes e consistem em investigação de latches
 ### Integrantes
 
 - Fernando Lucas Vieira Souza - 12703069
-- [nome2] - NUSP
-- [nome3] - NUSP
+- Artyr Oliveira Arraes - 14745532
 
 ### Estrutura do Projeto
 - Parte1: Implementação de um latch RS com porta controlada.
