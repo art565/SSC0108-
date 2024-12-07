@@ -12,7 +12,7 @@ Este repositório contém projetos Quartus, códigos VHDL e simulações referen
 - Implementação de um contador síncrono de 8 bits utilizando flip-flops T.
 - Simulação e verificação do circuito.
 - Mapeamento de entradas e saídas para chaves, botões e displays de 7 segmentos da FPGA.
-- **Contém pasta com imagens da simulação**
+
 
 **Parte 2:**
 - Implementação de um contador de 16 bits utilizando a operação de incremento.
